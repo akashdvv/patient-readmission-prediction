@@ -1,0 +1,8 @@
+dimension,value,encounters,readmit_rate
+discharge_to,Home,60232,0.09300703944746978
+discharge_to,Home with health service,12902,0.12695706092078748
+discharge_to,Other inpatient care,1184,0.20861486486486486
+discharge_to,Other short-term hospital,2128,0.16071428571428573
+discharge_to,Other/unknown,6948,0.12766263672999426
+discharge_to,Rehab facility,1992,0.27710843373493976
+discharge_to,Skilled nursing facility,13954,0.14662462376379531

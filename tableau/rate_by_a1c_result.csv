@@ -1,0 +1,5 @@
+dimension,value,encounters,readmit_rate
+a1c_result,>7,3775,0.1014569536423841
+a1c_result,>8,8137,0.09942239154479537
+a1c_result,Norm,4922,0.09772450223486388
+a1c_result,Not measured,82506,0.11685210772549876

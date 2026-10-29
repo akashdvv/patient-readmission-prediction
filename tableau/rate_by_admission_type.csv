@@ -1,0 +1,6 @@
+dimension,value,encounters,readmit_rate
+admission_type,Elective,18667,0.10489098408956983
+admission_type,Emergency,52369,0.11827607935992668
+admission_type,Other/unknown,10154,0.10872562536931259
+admission_type,Trauma,18,0.0
+admission_type,Urgent,18132,0.11350099272005294

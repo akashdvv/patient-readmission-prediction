@@ -1,0 +1,47 @@
+{
+  "encounters": 99340,
+  "patients": 69987,
+  "readmission_rate_30d": 0.1139,
+  "best_model": "Random Forest",
+  "results": [
+    {
+      "model": "Logistic Regression",
+      "cv_roc_auc": 0.6608,
+      "cv_roc_auc_std": 0.0047,
+      "cv_pr_auc": 0.2097,
+      "test_roc_auc": 0.6692,
+      "test_pr_auc": 0.2217,
+      "capture_top10pct": 0.2246,
+      "capture_top20pct": 0.3792,
+      "capture_top30pct": 0.5071
+    },
+    {
+      "model": "Random Forest",
+      "cv_roc_auc": 0.6697,
+      "cv_roc_auc_std": 0.005,
+      "cv_pr_auc": 0.2171,
+      "test_roc_auc": 0.6773,
+      "test_pr_auc": 0.2301,
+      "capture_top10pct": 0.2371,
+      "capture_top20pct": 0.4011,
+      "capture_top30pct": 0.5245
+    }
+  ],
+  "operating_point_top20pct": {
+    "flag_share": 0.2,
+    "recall": 0.4011,
+    "precision": 0.2276,
+    "base_rate": 0.1135,
+    "lift": 2.0057
+  },
+  "top_features": [
+    "number_inpatient",
+    "discharge_to",
+    "prior_visits_total",
+    "number_emergency",
+    "age_years",
+    "payer_known",
+    "a1c_result",
+    "n_diabetes_meds"
+  ]
+}

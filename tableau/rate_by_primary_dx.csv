@@ -1,0 +1,11 @@
+dimension,value,encounters,readmit_rate
+primary_dx,Circulatory,29680,0.11688005390835579
+primary_dx,Diabetes,8661,0.1310472231843898
+primary_dx,Digestive,9333,0.10821815064823744
+primary_dx,Genitourinary,5002,0.11035585765693723
+primary_dx,Injury,6851,0.12406947890818859
+primary_dx,Missing,20,0.25
+primary_dx,Musculoskeletal,4935,0.09544072948328268
+primary_dx,Neoplasms,3131,0.10891089108910891
+primary_dx,Other,17793,0.11684370257966616
+primary_dx,Respiratory,13934,0.1006171953495048

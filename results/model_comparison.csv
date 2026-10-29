@@ -1,0 +1,3 @@
+model,cv_roc_auc,cv_roc_auc_std,cv_pr_auc,test_roc_auc,test_pr_auc,capture_top10pct,capture_top20pct,capture_top30pct
+Logistic Regression,0.6608,0.0047,0.2097,0.6692,0.2217,0.2246,0.3792,0.5071
+Random Forest,0.6697,0.005,0.2171,0.6773,0.2301,0.2371,0.4011,0.5245
